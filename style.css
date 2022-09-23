@@ -1,0 +1,72 @@
+ul { font-family: Courier Prime;
+   
+}
+
+.hello{font-family:'Courier New', Courier, monospace; width:30% ;}
+.navbar{background-color: rgb(255, 255, 255);
+    justify-content: center;
+    opacity: 1;
+    display: flex;
+    align-items: center;
+
+
+
+    height: 2cm;
+
+    font-size:34px;
+}
+body{
+    background-attachment: scroll;
+
+}
+
+
+.navfont{
+    
+    color: rgba(82, 82, 82, 0.336);
+    
+    
+    margin: 4cm;
+
+    background-color: transparent;
+
+}
+.bode{background-color: rgb(4, 0, 5);box-sizing: border-box;
+
+    position:absolute;
+    margin:auto;
+    color:azure;
+
+    background-image: url(assets/sky.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.buy{background-image: url(assets/greysky.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  
+}
+.oos{color:azure;font-family:'Courier New', Courier, monospace;
+    display: flex;
+
+
+
+}
+
+.description{
+    font-family: 'Courier New', Courier, monospace; font-size: x-large
+    ;
+    margin-top: 4cm;
+}
+
+
+.arrow{
+    margin-top: 4cm;
+    opacity: 0.5;
+}
+
+.navtit
